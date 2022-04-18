@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @whyufollowme
-- 👀 I’m interested in coding robots!
-- 🌱 I’m currently learning code for my projects
-- 💞️ I’m looking to collaborate on my AI named Raspberry that runs on python on my raspberry pi 3B+
-- 📫 How to reach me you can reach me in my email (whyufollowme3.0@gmail.com)
+I'm cringe and only code in python cuz it ez poggers
+UwU
+
 
 <!---
 whyufollowme/whyufollowme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
