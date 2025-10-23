@@ -1,5 +1,4 @@
-I'm cringe and only code in python cuz it ez poggers
-UwU
+lets um.. lock the heck in guys
 
 
 <!---
